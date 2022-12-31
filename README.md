@@ -1,2 +1,2 @@
 # cursoJS_Udemy
- Estudos de javaScript
+ Estudos de javaScript curso Udemy
